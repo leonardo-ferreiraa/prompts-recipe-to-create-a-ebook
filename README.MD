@@ -1,9 +1,3 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-
 ## Sentinela do código - Veja o mundo cibernético como ele realmente é
 
 Guia prático e rápido sobre o que ocorre no mundo de cybersegurança, abordando seus fundamentos, como funciona os ataques cibernéticos, como se proteger e boas práticas
