@@ -3,35 +3,18 @@
 </p>
 
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
--------
+## Sentinela do código - Veja o mundo cibernético como ele realmente é
 
+Guia prático e rápido sobre o que ocorre no mundo de cybersegurança, abordando seus fundamentos, como funciona os ataques cibernéticos, como se proteger e boas práticas
 
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
-# Projeto EBOOK Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.Ai](https://app.leonardo.ai)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Photoshop](https://www.adobe.com/br/creativecloud/business/teams.html?sdid=ZSV7DYPG&mv=search&mv2=paidsearch?sdid=K7SLVKXG&mv=search&ef_id=CjwKCAjwpOfHBhAxEiwAm1SwEuzz9wYwjD1QIUYuZ0mVMUURPTQHrNMbCaqpOLLQ2pGRH0Yxjc5ePhoCdk0QAvD_BwE:G:s&s_kwcid=AL!3085!3!692412688756!e!!g!!photoshop!21060425664!158175276143&gad_source=1&gad_campaignid=21060425664&gclid=CjwKCAjwpOfHBhAxEiwAm1SwEuzz9wYwjD1QIUYuZ0mVMUURPTQHrNMbCaqpOLLQ2pGRH0Yxjc5ePhoCdk0QAvD_BwE)
 
 ## 🧠 Prompts
 
@@ -40,20 +23,32 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Você é um especialista de cybersegurança, preciso de ajuda com a ideia para um título poderoso e subtítulo para um ebook relacionado a área de cybersegurança que irei criar, me dê 5 sugestões nerds de nome, faça com trocadilhos de referência ao filme MATRIX {REGRAS} O nome deve ser sem ornamentos O nome deve ter uma referência do filme MATRIX {REGRAS NEGATIVAS} Não use termos em inglês Não use referência de outros filmes além do filme MATRIX.                                                        |
+| conteúdo | Faça um texto para ebook, com foco em cybersegurança, dando uma introdução ao mundo de cybersegurança, ataques, conceitos técnicas e maneiras de se proteger
+
+{REGRAS}
+- Siga o estilo de um ebook
+- Explique de maneira simples
+- Deixe o texto enxuto
+- Deve ter uma introdução e as seções devem ser separadas em capítulos
+- Traga exemplos de ataques e invações famosas que ocorreram, como o Stuxnet, ou wannacry
+- Sempre deixe um título sugestivo no tópico, você pode mudar o título do tópico para condizer com o conteúdo
+
+{REGRAS NEGATIVAS}
+- Não de exemplos usando código
+Lembrando: este ebook é para educar os leitores a entender como é o mundo da cybersegurança, então não será ensinado qualquer meio de se fazer uma invasão, apenas como acontecem e o estrago que causaram |
 
 
-Midjourney：
+Leonardo.ai：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| prompt | Two people sitting in front of each other using computers, separated by a digital interface. On the left, a cybersecurity professional wearing typical programmer clothes (casual hoodie, glasses, focused expression). On the right, a hooded man representing a malicious hacker, surrounded by dark shadows and red reflections. Background with smooth black and blue gradient, representing the digital world. Symbolic confrontation between protection and threat. |
 
-## ✨ Features
+## ✨ Características
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo.ai
 
 ## 📚 Materiais
 
@@ -64,29 +59,3 @@ Midjourney：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
